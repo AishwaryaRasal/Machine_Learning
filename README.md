@@ -6,4 +6,4 @@ Implementation of Various machine learning algorithms on Bioinformatics data set
 
 3) Implmentation of linear Support Vector Machine classification using scikit-learn.
 
-4)Implmentation of K-means using Pearson Correlations.
+4) Implmentation of K-means using Pearson Correlations.
